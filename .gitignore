@@ -1,0 +1,12 @@
+# user data
+data.csv 
+
+# api keys
+keys.py 
+
+# python virtualenv
+venv/ 
+
+# vim tmp files
+*.swp
+*.un~
